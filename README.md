@@ -1,2 +1,3 @@
-# AllMyFriends
-An art zine based out of Carrboro, NC
+# All My Friends
+
+We are an art zine based out of Carrboro, NC. 
