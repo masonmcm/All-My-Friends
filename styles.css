@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+#home-container {
+    height: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+#logo {
+    width: 40%;
+}
+
+#month-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+p {
+    color: black;
+    background-color: white;
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 9em;
+}
